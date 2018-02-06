@@ -2,7 +2,7 @@
 
 namespace OOP_BS
 {
-    class MainClass
+    class Programm
     {
         public static void Main(string[] args)
         {
