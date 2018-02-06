@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_BS", "OOP_BS\OOP_BS.csproj", "{0B239DA1-6771-4178-BB88-AF3B616194C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeApp_BS", "EmployeeApp_BS\EmployeeApp_BS.csproj", "{0B239DA1-6771-4178-BB88-AF3B616194C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
