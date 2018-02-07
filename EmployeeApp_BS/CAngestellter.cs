@@ -1,5 +1,5 @@
 ﻿using System;
-namespace OOP_BS
+namespace EmployeeApp_BS
 {
     public class CAngestellter : CMitarbeiter
     {
